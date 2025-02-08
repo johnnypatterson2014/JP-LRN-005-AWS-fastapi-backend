@@ -26,6 +26,10 @@ AWS S3:
  - amazon resource name (ARN): arn:aws:s3:::jpawsbucket
 
 
+deploy to render.com:
+ - make sure to add all env variables from .env file
+
+
 ```
 
 
